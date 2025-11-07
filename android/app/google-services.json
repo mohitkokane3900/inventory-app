@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "522276589027",
+    "project_id": "inentory-app-mohit",
+    "storage_bucket": "inentory-app-mohit.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522276589027:android:a9f37f693bcc427f02a4d6",
+        "android_client_info": {
+          "package_name": "com.example.act15"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9hnCefrdRJQfjELST6fR72Ey7DWaNTbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
